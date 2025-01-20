@@ -1,0 +1,83 @@
+Data with AI 
+use - Attach with spreadsheet files
+
+Ai tools :
+Julius.ai
+Chatgpt
+Copilot
+Gamma ai
+
+Create a Dashboard in Image format for me which
+shows following insights from above excel file
+1) Show Product wise Sales Amount in Column Chart
+2) Show Product wise Quantity sold in Column Chart
+3) Show Category wise Sales Amount in Pie Chart
+4) Show City wise Sales Amount in Pie Chart
+
+Give me insights from above excel file
+1) Total Male and Female Employee
+2) Total Salary of Male and Female Employee
+3) Number of Employees in Sales Position
+4) Younger Employee Name, Position and Salary
+5) Total Salary of Sales Position Employees
+
+Do following things with my excel file and give me new
+Excel file after applying data cleaning steps.
+1) Remove Blank rows from my Excel data
+2) Change the Date format to DD-MM-YYYY Format
+3) Also remove the two Columns Transaction and Reference
+4) Remove the records whose units sold is 0
+
+copilet
+Add a new column
+after column J and
+show me how many
+years, days, and
+months it has been
+since each employee
+joined our company.
+
+gamma.app: PPT on Marketing Ideas
+Create a presentation about : Help me to think of new
+marketing ideas for a car dealership to present to my
+boss. Focus on ideas that relate to reengaging with
+existing customers.
+
+I am an excel operator, I have data in my excel file in which column "J"
+has employee joining date and now I want to calculate how many
+years, months and as well as days has it been since each employee has
+joined the company? give me a formula for that
+
+
+CSV Files to XLSX format 
+Write an Excel VBA Code for me, Where I want to create an Excel Formula to
+extract emails from the text.
+Alt + f11 or developer tab me visual basic par click for integrate vba codes
+=Extract(
+Vba code used excel file excel add in (xlam me hoti h
+
+Write an excel VBA Code for me where I have several CSV files in one folder
+now, I want to convert all these files into excel format means it should be
+XLSX files while generating VBA code follow the given steps
+First give me pop-up option to select folder where I have all the CSV files.
+Once I select location of CSV Files, Give me another pop-up to save
+the converted files into another location, where I should get all the
+converted XLSX files.
+
+Merge multiple excel files 
+Write an Excel VBA Code for me where I want to merge data of
+several excel files from one folder so follow the given steps
+1) Once I run the VBA Code, I should get popup to select folder
+2) Once I select the folder which contains all the excel files then
+combine all the data of all selected excel file and Insert a new
+sheet in my current workbook and show all the combined data
+in this newly created sheet.
+
+Give me another VBA Code to Remove All the rows from
+my current sheet which contains 'Order Number' Text
+except row no.l
+
+ChatGPT Prompt to Create Data
+Please create a spreadsheet with 1 lac rows, for Bengaluru city. Give the following columns. The data will be for 1 month. use the following column 1. Date 2. Time 3. Booking ID 4. Booking Status 5. Customer ID 6. Vehicle Type- Auto- Prime Plus- Prime Sedan- Mini- Bike- eBike- Prime SUV 7. Pickup Location (Create dummy location points Take any 50 areas from Bangalore) 8. Drop Location (Take from dummy pickup locations) 9. AvgVTAT (Time taken to arrive at the vehicle) 10. Avg CTAT (Time taken to arrive the Customer) 11. Cancelled Rides by Customer 12. Reason for cancelling by Customer Driver is not moving towards pickup location---- Driver asked to cancel ACis not working (Only for 4-wheelers) Change of plans Wrong Address 13. Cancelled Rides by Driver Personal & Car related issues-- Customer related issue The customer was coughing/sick More than permitted people in there 14. Incomplete Rides 15. Incomplete Rides Reason Customer Demand-- Vehicle Breakdown Other Issue 16. Booking Value 17. Ride Distance 18. Driver Ratings 19. Customer Rating Keep the overall booking status success for this data at 62%. If the booking status is successful, then only fare charge ratings, average VTAT, average CTAT, and other data will be there. 
+
+
